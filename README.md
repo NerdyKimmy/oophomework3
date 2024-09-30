@@ -1,6 +1,6 @@
 # oophomework3
-Завдання 1.1 
-Створіть проєкти, які виводять текст «Неllo
+Завдання 1.1                       
+1) Створіть проєкти, які виводять текст «Неllo
 World!» за шаблонами Console Application, Windows Forms Application,
 WPF Application та .Net MAUI App.
 
