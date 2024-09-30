@@ -1,0 +1,16 @@
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\bin\Debug\net8.0-windows\WinFormsAppHello.exe
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\bin\Debug\net8.0-windows\WinFormsAppHello.deps.json
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\bin\Debug\net8.0-windows\WinFormsAppHello.runtimeconfig.json
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\bin\Debug\net8.0-windows\WinFormsAppHello.dll
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\bin\Debug\net8.0-windows\WinFormsAppHello.pdb
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.Form1.resources
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.csproj.GenerateResource.cache
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.AssemblyInfoInputs.cache
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.AssemblyInfo.cs
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.csproj.CoreCompileInputs.cache
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.dll
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\refint\WinFormsAppHello.dll
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.pdb
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\WinFormsAppHello.genruntimeconfig.cache
+C:\Users\Kimmy\source\repos\WinFormsAppHello\WinFormsAppHello\obj\Debug\net8.0-windows\ref\WinFormsAppHello.dll
