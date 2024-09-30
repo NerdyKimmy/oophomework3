@@ -2,6 +2,8 @@
 Завдання 1.1 Створіть проєкти, які виводять текст «Неllo
 World!» за шаблонами Console Application, Windows Forms Application,
 WPF Application та .Net MAUI App.
+
+
 Завдання 1.2
 1) Необхідно створити новий solution
 2) Додати новий проєкт Console Application, в якому буде
